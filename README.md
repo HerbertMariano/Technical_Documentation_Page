@@ -1,4 +1,4 @@
-This is a Taylor Guitar Landing Page.
+This is a Technical Documentation Page.
 
 Its make up one part of my coding portfolio.
 
